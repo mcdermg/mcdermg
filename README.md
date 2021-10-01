@@ -1,4 +1,4 @@
-### Hi there 👋
+![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif "Dino")
 
 <!--
 **mcdermg/mcdermg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
